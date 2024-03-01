@@ -2,7 +2,7 @@ Olá 👋
 
 Faço graduação na área da computação. Sou desenvolvedor, entusiasta em tecnologia e apreciador da matemática! :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarvs&theme=tokyonight)
 
 
 Linguagens e ferramentas:

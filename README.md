@@ -16,7 +16,3 @@ Atualmente, participo de um projeto de pesquisa no VeRLab (Vision and Robotics L
 ## 🔧 Linguagens e Ferramentas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarvs&theme=tokyonight)
-
-![Ferramentas](https://github.com/JohnCarvs/JohnCarvs/assets/92547485/61988ab6-739e-441e-a432-0b6bd54f62e0)
-
----

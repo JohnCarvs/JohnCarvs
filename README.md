@@ -1,8 +1,8 @@
 # João Vitor de Carvalho Silva
 
-👋 Olá
+Olá!
 Sou estudante de graduação em Sistemas de Informação na UFMG.  
-Sou desenvolvedor com interesse especial em Inteligência Artificial, Visão Computacional e Agentes Inteligentes.  
+Sou desenvolvedor com interesse especial em Inteligência Artificial e Visão Computacional.  
 Atualmente, participo de um projeto de pesquisa no VeRLab (Vision and Robotics Lab), onde investigo navegação baseada em linguagem natural e percepção visual.
 
 
@@ -13,6 +13,6 @@ Atualmente, participo de um projeto de pesquisa no VeRLab (Vision and Robotics L
 - Desenvolvimento Web (React, TypeScript)
 
 
-## 🔧 Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarvs&theme=tokyonight)

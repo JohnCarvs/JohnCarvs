@@ -18,7 +18,5 @@ Atualmente, participo de um projeto de pesquisa no VeRLab (Vision and Robotics L
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCarvs&theme=tokyonight)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,react,css)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,py,opencv,vscode)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=ae,blender)](https://skillicons.dev)
